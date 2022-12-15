@@ -11,4 +11,4 @@ Alexa MD - Simple whatsapp Multi Device whatsapp bot.
 
 1. If You don't have a account in [Koyeb](https://app.koyeb.com/auth/signup), Create a account.
 2. Get [DATABASE_URL](https://github.com/5hefin/Alexa-MD/wiki/DATABASE_URL) and copy it
-3. Now [Deploy](https://alexa-web.vercel.app/deploy)
+3. Now [Deploy](https://king-web.vercel.app/deploy)
